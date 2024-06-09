@@ -1,0 +1,90 @@
+Week1
+This week I plan to get a brief understanding of what will be assessed and what need to be done in which week. 
+It is also scheduled to form a group and choose the project in week1's lab. I read through the outlines 
+and assessment guidlines and chose project2 movie finder with group members. I also brainstormed 
+some functionalities with group members and put them into Jira. I emailed tutor Iwan to get some 
+suggestions on our existing functionalities and created Github classroom for the group. 
+Attended all meetings.
+
+For next week, I plan to finallize the functionalities and finish the user stories, and split the 
+work to start writing project proposal. 
+
+Week2
+This week I plan to write user stories and continue brainstorming the novel functionalities. I finished
+the all the draft user stories and acs, which were used as the base user stories and acs. For the novel
+functionalities, I researched the Auto Language Bot Filter, the research information was put in 
+Meeting Minutes3 in Jira. I also editted and adjusted the user stories with other team members.
+Attended all meetings.
+
+For next week, I plan to start writing the storyboard and finalize the backlog in Jira.
+
+Week3
+This week I plan to finish the proposal with the group. For the storyboard, I finished the user's
+profile page, other user's profile page, edit profile page, movie information page. For the proposal,
+I completed the adjustment of all the user stories and acs with the group, and completed the backlog. 
+The three sprints were created, and the screenshots were put in proposal. I also added the product 
+objectives for all the user stories, which were checked by other group members. Besides my own work, 
+I helped edit the proposal format, polishing background, references and system achitecture with other members. 
+I also wrote meeting minutes with Zhiqing Cen. Attended all meetings.
+
+For next week, I plan to work on the sprint1 code.
+
+Week4
+This week I plan to finish the sprint1 code and get ready for the demo A in next week. For The
+backend, I finished search keyword functionalities, wrote test files and tested the backend with
+the frontend by the due date set in meeting minutes. For other work, I wrote meeting minutes for
+the group, help test and debug login/register, help set up database for other group members. 
+Wrote meeting agenda and meeting minutes and meeting minutes. Attended all meetings.
+
+For next week, I plan to get prepared for the sprint1 demo A, and set up and split sprint2 work
+with the group.
+
+Week5
+This week I plan to test again and prepare for demo A, and move on to sprint2. For the demo, I
+took the search explanation and presentation part. After the demo, we split the sprint2 work
+and I was responsible for the reverse search result functionalities and for the profile frontend.
+We also held the retrorespective meeting and we completed the report together. Wrote meeting 
+agenda and meeting minutes and meeting minutes. Attended all meetings.
+
+For the next week, I plan to work on the sprint2 code.
+
+Week6
+This week I plan to pick the sprint2 task and finish the code. For the sprint2, I finished the 
+search sortby order functionalities and wrote retrorespective report A with the group. Wrote 
+meeting agenda. Attended all meetings.
+
+For the next week, I plan to help or test other functionalities and combine the codes into one 
+branch.
+
+Week7
+This week I plan to finish the sprint2 code and start preparing for the demo. For the code, I
+finished the frontend. For testing the website I helped combine the wishlist & token together 
+and tested the frontend. For the demo B, I helped combine the code together with the group and 
+prepared for the presentation. Wrote meeting agenda and meeting minutes. 
+Attended all meetings.
+
+For the next week, I plan to finish the retrorespective report B and start writing sprint3.
+
+Week8
+This week I plan to start writing sprint3 and the retrorespective report B. For the retrorespective
+report B, I finished it with the group. For the sprint3, I designed the review & rating database and 
+set it up in pgadmin, and finished the basic functionalities for the novel functionalities use.
+Wrote meeting agenda and meeting minutes. Attended all meetings.
+
+For the next week, I plan to test the functionalities with the frontend and combine codes for next
+demo.
+
+Week9
+This week I plan to finish the sprint3 code testing and prepare for the final presentation. For the
+sprint3 code, I fixed few bugs in review & rating after testing with the frontend, and merged the 
+final version of code together with the group. For the presentation, I wrote search and review and 
+rating presentation script. We also split the work for the final report. Wrote meeting agenda and meeting minutes and meeting minutes.
+Attended all meetings.
+
+For the next week, I plan to finish the final report.
+
+Week10
+This week I plan to get prepared for the presentation and finish the final report. For the
+presentation, I completed the search and review & rating part with the group, and set up the website
+for the desmonstration. For the final report, I am going to write content about the backend 
+functionalities I have done in this term. Attended all meetings.

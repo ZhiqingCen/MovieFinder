@@ -1,0 +1,72 @@
+Week1
+1.Attended all meetings.
+2.Decided on project content and brainstormed some functionalities with team members.
+3.Joined the jira group and completed some basic settings.
+plan for next week：
+Complete user stories and and begin drafting the proposal.
+
+
+Week2
+1.Attended all meetings.
+2.Write down 4 user stories and their acceptence critiria.
+3.We continued our discussion on the functionality of the project and started brainstorming on the novel function.
+plan for next week:
+Complete the design of pages by using figma and think of novel functions.
+
+Week3
+1.Attended all meetings.
+2.I trimmed all user stories and removed some user stories.
+3.Completed the page design of login, register, forget password, and error page by using figma.
+4.Proposed a novel function about sentiment analysis and did some searching and learning on it.
+5.Found many databases about movies and discussed with the team members and finally selected one of them as our team's database.
+6.Completed the proposal with the team members.
+plan for next week:
+Complete the tasks on the database for sprint1.
+
+Week4
+1.Attended all meetings.
+2.Encountered the problem of sharing the database, did some searching for this,and also considered sharing using LAN, etc.
+but finally solved the problem by storing the database as csv.
+3.learned postgresql to help other team members establish and connect to database.
+4.Wrote a database usage instruction and showed it on the demo.
+plan for next week:
+Prepare for the Demo A and assign tasks for sprint2 and start.
+
+Week5
+1.Attended all meetings.
+2.Assigned to backend tasks related to wishlists and start writing.
+plan for next week:
+Continue to write code about wishlist.
+
+Week6
+1.Attended all meetings.
+2.Completed Retrospective A Report with team members.
+3.Continuing to write about the backend related to wishlist.
+plan for next week:
+Test my code and link to front end for debugging.
+
+Week7
+1.Attended all meetings.
+2.Completed all wishlist backend functions.
+3.Connected and tested with Zhiqing's frontend, and fixed bugs.
+4.Assigned the task of Demo B with the team.
+plan for next week:
+Finish the retrorespective report B and start the task in sprint3.
+
+Week8
+1.Attended all meetings.
+2.Assigned tasks of backend of banlist and sentiment analysis in sprint3.
+3.finished banlist backend functions, test with Zhiqing's frontend, and fixed bugs.
+4.Discussed with the group and completed the Retrospective B Report.
+plan for next week:
+Complete my code, integrate and debug with the team, and prepare for the final Demo.
+
+Week9
+1.Attended all meetings.
+2.I have studied the sentiment analysis, consulted the information, 
+and completed the relevant back-end, and also connected and tested with the front-end of Zhiqing.
+3.The final integration with the team members, the overall merge and debug.
+4.Modified the database and completed the usage instruction.
+5.Discuss with the team members and assign the task of the final Demo.
+plan for next week:
+Work on final report.

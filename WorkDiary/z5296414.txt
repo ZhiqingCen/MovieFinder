@@ -1,0 +1,66 @@
+Week 1 :
+This week I plan to get an overlook of the projects and understanding the ability of the group which has been created 
+during the first tutorial of the course. I have looked through the assessment guidelines and the specifications of the
+group proposal. I also agreed on doing the movie finder project with my group. I wrote the basic functionalities of the 
+website with my group. I also joined the github classroom for the group. 
+
+In the following week, I plan to finish off the functionalities and finish the user stories, split the work amongst 
+the group and begin drafting the proposal.
+
+Week 2 :
+This week I plan to write the user stories for the basic functionalities. I also plan to start constructing the novel
+functionalities, I asked the tutor Iwan on the limitations of the novel functionalities and crossed out the ones he 
+said that can't be novel functionalities. I also plan to finish off writing all the user stories with the group.
+
+In the following week, I plan to publish the proposal with the group and complete the general user flow diagram for 
+the functionalities. 
+
+Week 3 :
+This week I plan to publish the proposal with the group. For flow diagram, I've completed writing out all the functions
+blocks and the due date for each of the functions. I also plan to finalize the user stories with the groups. For the 
+proposal, I have polished the background paragraph, polished the user story with the other group members.
+
+In the following week, I plan to finish the code that I was assigned to for the project which is the email function.
+
+Week 4 :
+This week I finish the email functions and satisfy all the conditions written in sprint 1, worked with Aditya Phadke 
+to polish the function, as well as understanding the databse of the users. Created testing for the email functions as
+well as the cohesion between the email function and the user functions (login, register, etc.).
+
+In the following week, I plan to draft out the Retrospective A with the rest of my group.
+
+Week 5 :
+This week I plan to start on sprint 2 and finish off Retrospective A with the rest of my group. For group demo A, I presented
+the basic email function for sending the verification code. I joined the meeting with the group and completed the retrospective 
+report with them with everyone being present.
+
+For flexibility week I plan to work on sprint 2 code.
+
+Week 6 :
+This week Worked on Forget password functions for sprint 2.
+
+Next week I plan to finish off the email and forget password function.
+
+Week 7 ：
+This week I finished my functions for sprint 2 and prepared demo B presentation with my team as well as writing a script for  
+demo B.
+
+Next week I plan to start working on the final sprint and complete the demo as well as writing report for retrospective B. 
+
+Week 8 :
+This week I presented Sprint 2 with my team, I demonstrated the email and forget password function to the tutor. Our demo went 
+slightly over time due to the speed of the virtual machine is slower than presenting through windows. We've decided to use windows
+for our final demo, I've also started to work on my functions for the final sprint which is a novel functionality that requires 
+machine learning. I've also completed retrospective B with my team after the demo. 
+
+I'm planning to start the final report and complete my function in the following week.
+Week 9 :
+This week I completed my spam novel function for the final sprint, written scripts for the demo in week 10. Preparing to demonstrate
+through virtual machine. Started to write about my part of the function for the final report which is the email, forget password as 
+well as the spam novel function.
+
+Next week I plan to do the final demo with my team and complete the final report with my team mates and give in my peer review.
+
+Week 10 :
+This week I've completed the demo with my team just slightly under the timer. Completed the final report and peer review, said farewell
+to my team.

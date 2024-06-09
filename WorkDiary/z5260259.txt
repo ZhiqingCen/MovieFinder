@@ -1,0 +1,41 @@
+Week 1 :
+This week I went over the project specifications and marking criteria as well as the different projects that are available to do. As the scrum master I registered my group name as well as registering the group account on github and jira. The group additionally had a meeting where we discussed the project and agreed upon the Movie Finder project. We proceeded to come up with 8 different functionalities and left the meeting unable to decide upon the novel functionalities.
+
+In the following week I plan to with my group to come up with the rest of the functionalities and user stories as well as split the proposal up between group members and begin writing it up. 
+
+Week2  :
+This week I finished off the rest of my user stories. Additionally we started writing up the functionalities for our novel functions. We also emailed our tutor for guidance on the novel functionalities and upon getting a response we were able to decide on which functionaliteis are considered novel and which are not.
+
+In the following week I plan to finish the proposal and write up the system architecture and background.
+
+Week 3 : 
+This week I wrote up the system architecture and background part of the proposal. We collectively assigned functions to each other and wrote down the due dates for when we could complete them by. I am responsible for completing all the account funcitons i.e. login, register, forget passwd.
+
+In the following week I plan to finish the functionalities that I am responsible for.
+
+Week 4 : 
+This week I finished the account functions. There was some bugs in a functions which were found in the meeting and which I proceeded to fix after. I additionally worked with Zeyang to polish off his email function which was having some issues with connecting to the gmail server.
+
+In the following week I plan to write up restrospective A and assign Sprint 2 functionalities with the group.
+
+Week 5 : 
+This week for Demo A I was running the Movie Finder and sharing my screen. I talked on the account functionalities. In the meeting the team started on restro A. Once retro A was done we submitted it by Sunday. I also started on the functionalities that I am responsible for in Sprint 2 
+
+In the following week I plan to continue to work on my functions
+
+Week 6 : 
+This week I worked on my functionalities and finished them
+
+In the following week I plan to combine my functionalities with others in order to test the application as a whole
+
+Week 7  :
+This week I finished testing my functions for sprint 2 and prepared demo B presentation with my team as well as writing a script for  
+demo B.
+
+Next week I plan to start working on the final sprint and complete the demo as well as writing report for retrospective B.
+
+Week 8 : 
+This week we assigned backend tasks in sprint3. I am responsible for the function that utilizes machine learning to recommend movies.
+I started on my functionalities and discussed with the group and completed the Retrospective B Report.
+
+Next week I plan to integrate and debug with the team, and prepare for the final Demo.

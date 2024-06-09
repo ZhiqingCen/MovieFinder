@@ -1,0 +1,269 @@
+Week1
+- haven't join this group yet, still enrolled in another tutorial
+
+---
+Week2
+This week I join this group, I plan to get to know the project details and read through work already done by other team members.
+
+These are what I have done in this week:
+- added epic story and user story for project
+  - epic story movie information page, 3 user stories related to it
+  - epic story review and rate, 3 user stories related to it
+  - epic story dashboard, 1 user story related to it
+- added backend and frontend time cost and priority for all user story
+
+I have attended 2 group meeting:
+  - 6PM - 8:30PM on 6 June 2022 during lab time
+  - 11AM - 1PM on 8 June 2022, discuss on user story and novel functionalities
+
+---
+Week3
+This week, I plan to finish the proposal together with the group.
+
+These are what I have done in this week:
+- proposal
+  - storyboard
+    - draft and finalise a header bars for website
+    - search page
+    - edit and combine different pages with arrows and description, then export for proposal
+  - refine user story and discuss with teammates
+  - paraphrase problem statement for Aditya
+  - paraphrase background with Zeyang and Yuchen for Aditya
+  - rewrite the whole competitor analysis for Aditya due to logic error, and look for screenshots proof, advantages and drawbacks
+  - draw software architecture diagram for Aditya due to lots of missing items
+  - paraphrase and rewrite all software architecture description with Zeyang for Aditya
+  - update reference list format
+  - edit proposal layout
+  - add and update table of content
+
+I have attended 3 group meeting:
+  - 6PM - 9PM on 13 June 2022, during lab time, finalise user story
+  - 11AM - 1PM on 15 June 2022, start on proposal, split sprints
+  - 6PM on 19 June 2022 to 2AM on 20 June 2022
+
+---
+Week4
+This week, I plan to start and finish sprint 1 coding, since I am the only one doing frontend coding, I 
+plan to put more time in this project to cope with the heavy load that I have
+
+These are what I have done in this week:
+- frontend
+  - login page
+    - toRegister button to navigate to register page
+    - input text field for user to input email
+    - input password field for user to input password without showin text
+    - login button to allow user to send request to login
+      - if successful, navigate to dashboard page with notification shown, else, show error notification
+    - forgot password button to navigate to forgot password page
+  - register page
+    - toLogin button to navigate to login page
+    - input text field for user to input email
+    - input text field for user to input username
+    - input text field for user to input varification code
+    - input password field for user to input password without showing text
+    - input password field for user to input confirm password without showing text
+    - send button to allow user to send request to ask for verification code
+    - confirm button to allow user to send request to register a new account with
+      - if successful, navigate to dashboard page with notification shown, else, show error notification
+  - dashboard page
+    - show header bar
+    - automatically navigate to login page if user not login
+    - show 10 top ranked movie preview
+    - movie name in preview with a link to navigate to that movie page
+    - display movie poster, movie name, director and movie ranking for each preview
+  - header bar
+    - website name with a link to navigate to dashboard page
+    - searchBy dropdown list allow user to select a search by option
+    - sortBy dropdown list allow user to select a sort by option
+    - input text field for user to input search text
+    - search button with magnifiying glass icon with functionality and api to search
+    - username with a link to navigate to user profile
+  - profile page
+    - show header bar
+    - automatically navigate to login page if user not login
+    - show username
+    - logout button
+
+I have attended 5 group meeting:
+  - 8:30AM - 10AM on 20 June 2022
+  - 6PM - 8PM on 20 June 2022, during lab time
+  - 1PM - 5PM on 24 June 2022
+  - 5PM on 25 June 2022 to 12AM on 26 June 2022
+  - 6PM on 26 June 2022 to 1:30AM on 27 June 2022
+
+I expereienced obstacles this week in communicating with one of the team member, I tried many time to politely ask
+him to push his code but he refuses to, the progressive demo A is on 27 June 2022, it was only until I asked multiple 
+times and I finally got the dependent backend code from him on 27 June 2022 midnight. Then I can start on testing 
+some part of the frontend code. I was very worry about not getting the frontend work as expected, even though I have finish
+my part as early as I can, coorperation is very important between frontend and backend, some code can't be fully tested
+or even start coding if the dependent backend API is not provided. This has greatly affected my work-life balance and 
+my plan of the week, since the relarent backend code was expected to finished by Wednesday and I have planned my whole 
+Thursday and Friday for the forntend part, but due to this issue, the whole weekend plan was ruined. Luckily I have tried 
+my best and sacrifise sleeping time to successful get the frontend code working as expected before the demo. I should 
+raise this issue during the retrospective A meeting to seek for a solution.
+
+---
+Week5
+This week, I plan to discuss about the obstacle I faced last week during the retrospective A meeting and try to find a solution.
+
+These are what I have done in this week:
+- frontend
+  - forget password page
+    - back to Login page button to navigate to login page
+    - input text field for user to input email
+    - input text field for user to input varification code
+    - input password field for user to input new password without showing text
+    - input password field for user to input confirm password without showing text
+    - send button to allow user to send request to ask for verification code
+    - confirm button to allow user to send request to register a new account with
+      - if successful, navigate to login page with notification shown, else, show error notification
+  - refactor frontend code
+  - discuss sprint 2 API with backend and written down in README.md file
+- retrospective A meeting
+
+I have attended 4 group meeting:
+  - 2PM - 6PM on 27 June 2022
+  - 6PM - 8PM on 27 June 2022, during lab time, progressive demo A
+  - 11AM - 1PM on 29 June 2022
+  - 7:30 - 9:45PM on 29 June 2022
+
+Even though the issue of not pushing updated code on time has been discussed during the retrospective A meeting,
+and everyone agreed to push their latest well tested bug-free code to GitHub as soon as possible, the same issue still
+occur for the same group member. I tried to emphasise the importance of this again, hope it will get better next week.
+
+---
+Week6
+This week is flexible week, I plan to have a rest and start on sprint 2 frontend coding
+
+These are what I have done in this week:
+- frontend
+  - search page
+    - automatically navigate to login page if user not login
+    - refactor code for search page to navigate and sent API in search file
+    - navigate to search page when search icon is clicked on header bar
+    - automatically fetch search result when navigate to page
+    - make movie preview layout similar to design in storyboard
+    - show all search result as movie preview
+    - movie name in preview with a link to navigate to that movie page
+    - display movie poster, movie name, director and movie ranking for each preview
+- README.md file
+  - discussed with Yuchen, Ruiqi about the backend API that they need, written down details about APIs
+
+---
+Week7
+This week, I plan to finish the sprint2 frontend coding.
+
+These are what I have done in this week:
+- frontend
+  - profile page
+    - automatically navigate to login page if user not login
+    - refactor code from Ruiqi to make page look similar to design in storyboard and refactor functionality code
+    - edit profile button to allow user to navigate to edit profile page
+    - differentiate login user and other user's profiles to show different content on website
+    - show email address only for logined user profile but not on other user's profile
+    - show logout button only for logined user profile but not on other user's profile
+      - if successful, navigate to login page with notification shown, else, show error notification
+    - show edit profile button only for logined user profile but not on other user's profile
+    - show add to banlist button only for other user's profile but not on logined user profile
+  - edit profile page
+    - automatically navigate to login page if user not login
+    - only allow logined user to view this page
+    - input password field for user to input old password without showing text
+    - input password field for user to input new password without showing text
+    - input password field for user to input confirm password without showing text
+    - cancel button to allow user to navigate back to their profile page
+    - submit button to allow user to submit edit profile request
+      - if successful, navigate to profile page with notification shown, else, show error notification
+
+I have attended 4 group meeting:
+  - 6PM - 8PM on 11 July 2022, during lab time
+  - 1:30PM - 8:30PM on 13 July 2022
+  - 4PM - 5:30PM on 15 July 2022
+  - 4PM on 16 July 2022 to 1AM on 17 July 2022
+
+The issue of the same group member not pushing latest well tested bug-free code still exist, the rest of the member
+spent quite a lot of time into debugging his code which is claimed to work well.
+
+---
+Week8
+This week, I plan to discuss the APIs needed for sprint 3 with backend and finish most of the sprint 3 frontend coding.
+
+These are what I have done in this week:
+- frontend
+  - profile
+    - fetch review history
+      - test with backend - Ruiqi
+    - remove review history
+      - test with backend - Ruiqi
+    - link from review history to movie page
+    - fetch banlist
+      - test with backend - Yuchen
+    - remove user from banlist
+      - test with backend - Yuchen
+    - link from banlist to other user profile
+    - add to banlist
+      - test with backend - Yuchen
+  - movie page
+    - fetch movie rating
+      - test with backend - Ruiqi
+    - fetch user rating
+      - test with backend - Ruiqi
+    - add rating
+      - test with backend - Ruiqi
+    - add review
+      - test with backend - Ruiqi
+    - fetch reviews with rating
+      - test with backend - Ruiqi
+    - link from review to profile
+    - fetch sentiment analysis about each review, WAITING TO test with backend (Yuchen)
+    - fetch similarity score about each review, WAITING TO test with backend (Aditya)
+    - fetch real/fake comment about each review, WAITING TO test with backend (Zeyang)
+    - fetch suggestion, WAITING TO test with backend (Aditya)
+- retrospective meeting B
+
+I have attended 4 group meeting:
+  - 1PM - 4PM on 18 July 2022
+  - 6PM - 8PM on 18 July 2022, during lab time, progressive demo B
+  - 12PM - 1PM on 20 July 2022, retrospective B meeting
+  - 5PM - 6PM on 22 July 2022
+
+---
+Week9
+This week, I plan to refactor the frontend code, to modify the frontend layout and finish the 
+remaining frontend functionalities.
+
+These are what I have done in this week:
+- frontend
+  - fixed movie preview layout with text cutoff
+  - automatically load page after movie name link is click on Movie page Suggestioin section
+  - 404 / error page for frontend
+  - movie page
+    - fetch sentiment analysis about each review
+    - fetch similarity score about each review
+    - fetch real/fake comment about each review
+    - fetch suggestion
+
+I have attended 4 group meeting:
+  - 6PM - 8PM on 25 July 2022, during lab time
+  - 7:30PM - 8:30PM on 27 July 2022
+  - 1PM - 3PM on 30 July 2022
+  - 6:30PM - 10:15PM on 31 July 2022
+
+---
+Week10
+This week, I plan to finish the project report with the group and to finish the participatioin and peer form.
+
+These are what I have done in this week:
+- frontend
+  - remove unwanted code from all 18 frontend files
+  - added comments to all 18 frontend files
+  - updated README.md file to include API details
+- report
+  - written frontend setup and runnin instruction guide
+- attended and participate in final demo
+
+I have attended 2 group meeting:
+  - 5PM - 8PM on 1 August 2022, before and during lab time
+  - 8PM - 10PM on 1 August 2022
+
+---
