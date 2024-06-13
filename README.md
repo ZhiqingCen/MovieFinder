@@ -16,5 +16,3 @@
 6. on terminal, run `yarn start` to run the frontend
    - Note: if this step failed, run `yarn upgrade` before `yarn start`
 7. open Google Chrome and search `http://localhost:3000`
-
----
